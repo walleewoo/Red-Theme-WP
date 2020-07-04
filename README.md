@@ -1,2 +1,2 @@
 # Red-Theme-WP
-Read me indeed
+Read me or not
